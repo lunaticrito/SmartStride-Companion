@@ -5,6 +5,7 @@
 - Elderly individuals, including Glaucoma patients, face such issues too
 - Traditional canes do not detect head-level or distant obstacles
 - Lack of real-time feedback, voice control, or location sharing in low-cost assistive devices
+
 Through this project, we aim to provide an affordable,feature-rich navigation system using accessible hardware.
 
 ## OBJECTIVE
@@ -32,8 +33,8 @@ With these elements, our system enhances safety, confidence, and autonomy for us
 - Vibration Motor: Delivers instant tactile feedback  
 - SIM800L GSM Module: Sends SMS or makes calls in emergencies  
 - 12V Battery: Powers entire device  
-- DC to DC Boost Converter: Stabilizes voltage  
-Resistors, toggle switch, and NPN transistor: Basic circuit regulation and switching
+- DC to DC Boost Converter: Stabilizes voltage
+- Resistors, toggle switch, and NPN transistor: Basic circuit regulation and switching
 
 ## WIRING: 
 * Ultrasonic Sensor : TRIG → A1, ECHO → A0, VCC → 5V, GND → GND
