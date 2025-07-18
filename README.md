@@ -3,7 +3,7 @@
 ## INSPIRATION
 - Visually impaired individuals face challenges in navigating safely and independently (i.e crossing the road)
 - Elderly individuals, including Glaucoma patients, face such issues too
--Traditional canes do not detect head-level or distant obstacles
+- Traditional canes do not detect head-level or distant obstacles
 - Lack of real-time feedback, voice control, or location sharing in low-cost assistive devices
 Through this project, we aim to provide an affordable,feature-rich navigation system using accessible hardware.
 
