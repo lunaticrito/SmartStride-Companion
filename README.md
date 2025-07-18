@@ -72,3 +72,6 @@ The code is structured into key sections:
 + Develop a wearable, lightweight casing 
 + Add Bluetooth or Wi-Fi for mobile app connectivity  Improve power efficiency and battery technology
 
+## Links : 
+- TinkerCAD : https://www.tinkercad.com/things/dXdYCKiByPq-feature-a-obstacle-detection?sharecode=cJ3L6towys1p3oNYcumwwwT_Py8iXAYEZe4kYjKrDqU
+
